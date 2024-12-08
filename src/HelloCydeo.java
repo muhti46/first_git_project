@@ -9,6 +9,7 @@ public class HelloCydeo {
         if(a>b)
           c=a-b;
         else
-            b-a;
+            c=b-a;
+        System.out.println(c);
     }
 }
