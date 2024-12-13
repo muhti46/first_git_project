@@ -1,0 +1,50 @@
+Index: src/HelloWorld.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/HelloWorld.java b/src/day01/HelloWorld.java
+rename from src/HelloWorld.java
+rename to src/day01/HelloWorld.java
+--- a/src/HelloWorld.java	(revision 74b40b612c9cb4cdc946afc3c34273341cfb2038)
++++ b/src/day01/HelloWorld.java	(date 1733693220250)
+@@ -1,3 +1,5 @@
++package day01;
++
+ public class HelloWorld {
+     public static void main(String[] args) {
+         System.out.println("Hello World");
+Index: src/HelloCydeo.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/HelloCydeo.java b/src/day01/HelloCydeo.java
+rename from src/HelloCydeo.java
+rename to src/day01/HelloCydeo.java
+--- a/src/HelloCydeo.java	(revision 74b40b612c9cb4cdc946afc3c34273341cfb2038)
++++ b/src/day01/HelloCydeo.java	(date 1733693220242)
+@@ -1,3 +1,5 @@
++package day01;
++
+ public class HelloCydeo {
+     public static void main(String[] args) {
+         System.out.println("Hello Cydeo");
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision 74b40b612c9cb4cdc946afc3c34273341cfb2038)
++++ /dev/null	(revision 74b40b612c9cb4cdc946afc3c34273341cfb2038)
+@@ -1,8 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+diff --git a/ThirdFile.txt b/src/day01/ThirdFile.txt
+rename from ThirdFile.txt
+rename to src/day01/ThirdFile.txt
