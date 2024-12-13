@@ -14,5 +14,6 @@ public class HelloCydeo {
             c=b-a;
         System.out.println(c);
         System.out.println("Hello Cydeo");
+        System.out.println(2+3+5);
     }
 }

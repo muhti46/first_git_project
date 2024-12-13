@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c4d5332-9c1b-465b-92ef-a975639b8e37" name="Changes" comment="Test Delete">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4c4d5332-9c1b-465b-92ef-a975639b8e37" name="Changes" comment="Test Delete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +77,7 @@
       <workItem from="1733738667885" duration="84000" />
       <workItem from="1733739244972" duration="79000" />
       <workItem from="1733739468391" duration="30000" />
-      <workItem from="1734097764812" duration="1267000" />
+      <workItem from="1734097764812" duration="1581000" />
     </task>
     <task id="LOCAL-00001" summary="print class added">
       <option name="closed" value="true" />
