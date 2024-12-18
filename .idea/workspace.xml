@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c4d5332-9c1b-465b-92ef-a975639b8e37" name="Changes" comment="Test Delete">
-      <change afterPath="$PROJECT_DIR$/src/day01/FourthFile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_12_2024_22_33_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_12_2024_22_33__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4c4d5332-9c1b-465b-92ef-a975639b8e37" name="Changes" comment="Test Delete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +86,7 @@
       <workItem from="1734176431609" duration="635000" />
       <workItem from="1734189034157" duration="17000" />
       <workItem from="1734213146414" duration="1446000" />
-      <workItem from="1734547522494" duration="458000" />
+      <workItem from="1734547522494" duration="822000" />
     </task>
     <task id="LOCAL-00001" summary="print class added">
       <option name="closed" value="true" />
